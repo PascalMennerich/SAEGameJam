@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/CloudFinal.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/pSphere1.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/pSphere1_Inst.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/SM_Cloud.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/M_Cloud.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/MI_Cloud.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/NS_Rain.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/Cloud/M_Raindrop.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/CloudFinal.uasset",
+				"C:/Users/Student/SAEGameJam/GameJam/Content/pSphere1.uasset",
 				"C:/Users/pasca/Desktop/Work Stuff/Repositories/SAEGameJam/GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/pasca/Desktop/Work Stuff/Repositories/SAEGameJam/GameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
